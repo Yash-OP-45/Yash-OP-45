@@ -2,7 +2,7 @@
 - 👀 I’m interested in Space, Physics, Python, Geoinformatics, Public Speaking and some ounces of Student governance (I don't endorse monarchy 🗡️)
 - 🌱 I’m currently learning Radio Astronomy, GNSS and a bit of resilience
 - 📫 How to reach me: Isn't my profile page enough ??? lolol
-- 😄 Pronouns: he/him (by all means)
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: I will dual boot your Mac to Win-XP if you brag too much abt it! :(
 
 <!---
