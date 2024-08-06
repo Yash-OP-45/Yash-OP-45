@@ -1,7 +1,3 @@
-<div align="center">
-  <iframe src="https://threejs.org/examples/#webgl_geometry_cube" width="600" height="400"></iframe>
-</div>
-
 <h1 align="center">Hi 👋 folks! Welcome to my repo.</h1>
 <h3 align="center">👀 I’m interested in Space, Physics, Python, Geoinformatics, Public Speaking and some ounces of Student governance (I don't endorse monarchy 🗡️)</h3>
 
