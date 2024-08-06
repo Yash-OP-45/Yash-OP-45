@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-op-45&label=Profile%20views&color=0e75b6&style=flat" alt="yash-op-45" /> </p>
 
-- 🔭 I’m currently working on **Radio Astronomical Simulations and Smartphone GNSS post-processing**
+- 🔭 I’m currently working on: **Radio Astronomical Simulations and Smartphone GNSS post-processing**
 
-- 🌱 I’m currently learning **🌱 I’m currently learning Radio Astronomy, GNSS and a bit of resilience**
+- 🌱 I’m currently learning: **🌱 I’m currently learning Radio Astronomy, GNSS and a bit of resilience**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yash-OP-45?tab=repositories](https://github.com/Yash-OP-45?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/Yash-OP-45?tab=repositories](https://github.com/Yash-OP-45?tab=repositories)
 
-- 📫 How to reach me **Isn't my profile page enough ??? lolol**
+- 📫 How to reach me: **Isn't my profile page enough ??? lolol**
 
-- ⚡ Fun fact **I will dual boot your Mac to Win-XP if you brag too much abt it! :(**
+- ⚡ Fun fact: **I will dual boot your Mac to Win-XP if you brag too much abt it! :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
