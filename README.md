@@ -12,7 +12,9 @@
 - 📫 How to reach me: **Isn't my profile page enough ??? lolol**
 
 - ⚡ Fun fact: **I will dual boot your Mac to Win-XP if you brag too much abt it! :(**
+- <div align="center">
 - ![Galaxy GIF](https://github.com/Yash-OP-45/Yash-OP-45/blob/main/856309-hd_1920_1080_30fps.gif)
+- </div>
 
 
 <h3 align="left">Connect with me:</h3>
