@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **Radio Astronomical Simulations and Smartphone GNSS post-processing**
 
-- 🌱 I’m currently learning: **🌱 I’m currently learning Radio Astronomy, GNSS and a bit of resilience**
+- 🌱 I’m currently learning: ** Radio Astronomy, GNSS and a bit of resilience**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Yash-OP-45?tab=repositories](https://github.com/Yash-OP-45?tab=repositories)
 
