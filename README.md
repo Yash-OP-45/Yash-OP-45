@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 folks! Welcome to my repo.</h1>
-<h3 align="center">👀 I’m interested in Space, Physics, Python, Geoinformatics, Public Speaking and some ounces of Student governance (I don't endorse monarchy 🗡️)</h3>
+<h3 align="center">👀 I’m interested in Space, Physics, Python, Geoinformatics, Public Speaking and some ounces of Student governance (Is monarchy good ? 🗡️)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-op-45&label=Profile%20views&color=0e75b6&style=flat" alt="yash-op-45" /> </p>
 
