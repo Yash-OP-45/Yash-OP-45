@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 folks! Welcome to my repo.</h1>
-<h3 align="center">👀 I’m interested in Space, Physics, Python, Geoinformatics, Public Speaking and some ounces of Student governance (Is monarchy good ? 🗡️)</h3>
+<h3 align="center">👀 I’m interested in Space, Physics, Python, Geoinformatics, Public Speaking and some ounces of Student governance </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-op-45&label=Profile%20views&color=0e75b6&style=flat" alt="yash-op-45" /> </p>
 
 - 🔭 I’m currently working on: **Radio Astronomical Simulations and Black-Hole radiations**
 
-- 🌱 I’m currently learning: **Radio Astronomy, GNSS and a bit of resilience**
+- 🌱 I’m currently learning: **Radio Astronomy, GNSS and music**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Yash-OP-45?tab=repositories](https://github.com/Yash-OP-45?tab=repositories)
 
